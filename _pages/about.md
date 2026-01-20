@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hello World! I am Yifan."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-👨‍🎓 Biography
+🌱 Biography
 ======
 I am currently an undergraduate student at the School of **Intelligence Science and Technology**, **Nanjing University (NJU)**.
 
@@ -17,10 +17,10 @@ I am fortunate to have conducted research under the mentorship of **Prof. Beibei
 ======
 My research journey is driven by the goal of building intelligent agents with robust perception and reasoning capabilities:
 * **Embodied AI**: Interaction and decision-making in physical or simulated environments.
-* **Multimodal Large Models**
 * **Trustworthy AI**: Enhancing the reliability of large models through confidence calibration.
-* **Multimodal Large Models**: Currently, my research focuses on Brain-inspired Large Multimodal Models, aiming to bridge the gap between biological neural mechanisms and artificial intelligence. I am particularly interested in leveraging neuro-inspired architectures to enhance the efficiency and reasoning capabilities of foundation models. P
+* **Multimodal Large Models**: Currently, my research focuses on Brain-inspired Large Multimodal Models, aiming to bridge the gap between biological neural mechanisms and artificial intelligence. I am particularly interested in leveraging neuro-inspired architectures to enhance the efficiency and reasoning capabilities of foundation models. 
 
+🐾🧠✨🎈🎉🪁📢🏆
 
 A data-driven personal website
 ======
