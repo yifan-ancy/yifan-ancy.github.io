@@ -112,27 +112,27 @@ html {
 
 /* 1. 针对名字（蒋依帆） */
 #main .sidebar .author__name {
-  font-size: 1.4rem !important; /* 显著加大 */
+  font-size: 1.25rem !important; /* 显著加大 */
   font-weight: 700 !important;
   display: block;
-  margin-top: 15px;
+  margin-top: 12px;
 }
 
 /* 2. 针对学院和身份介绍 (SIST, NJU) */
 #main .sidebar .author__bio {
-  font-size: 1rem !important; /* 稍微大一点，更易读 */
+  font-size: 0.8rem !important; /* 稍微大一点，更易读 */
   line-height: 1.4 !important;
-  margin-top: 10px;
+  margin-top: 8px;
 }
 
 /* 3. 针对下方所有链接（Email, GitHub, Location 等） */
 #main .sidebar .author__urls-wrapper li {
-  font-size: 1rem !important; 
-  margin-bottom: 5px;
+  font-size: 0.9rem !important; 
+  margin-bottom: 4px;
 }
 
 /* 4. 针对链接内的图标大小 */
 #main .sidebar .author__urls-wrapper li i,
 #main .sidebar .author__urls-wrapper li span {
-  font-size: 1.1rem !important; 
+  font-size: 1.0rem !important; 
 }
