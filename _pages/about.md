@@ -50,7 +50,8 @@ My previous research experience spans multimodal large model reasoning, trustwor
 - **National Scholarship** (Top 0.2% nationwide, the most prestigious undergraduate scholarship in China) <span style="float:right">2025</span>  
 - **National Second Prize**, "Challenge Cup" National College Student Academic Competition <span style="float:right">2025</span>  
 - **Provincial Third Prize**, China Undergraduate Mathematical Contest in Modeling <span style="float:right">2025</span>
-- **Project Leader**, National University Student Innovation Training Program <span style="float:right">2024</span>  
+- **Project Leader**, National University Student Innovation Training Program <span style="float:right">2024</span>
+- **Provincial Third Prize**, China Algorithm Capability Competition <span style="float:right">2024</span>
 
 # 📖 Educations
 - *2023.09 - Present*, School of Intelligence Science and Technology, Nanjing University.
