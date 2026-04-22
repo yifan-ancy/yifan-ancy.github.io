@@ -50,7 +50,7 @@ My previous research experience spans multimodal large model reasoning, trustwor
   <div class='paper-box-image'>
     <div>
       <div class="badge">Under Review</div>
-      <img src='images/Instinct_vs_Reflection.png' alt="Instinct vs Reflection Teaser" width="100%">
+      <img src='images/Instinct_vs_Reflection.png' alt="Instinct vs Reflection" style="width: 250px; height: 140px; object-fit: cover; border-radius: 8px;">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -58,6 +58,38 @@ My previous research experience spans multimodal large model reasoning, trustwor
   [Instinct vs. Reflection: Unifying Token and Verbalized Confidence in Multimodal Large Models](https://arxiv.org/abs/2604.17274)
 
   Yunkai Dang\*, **Yifan Jiang**\*, Yizhu Jiang, Anqi Chen, Wenbin Li, Yang Gao
+  
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Under Review</div>
+      <img src='images/Fusion.png' alt="FUSE-RSVLM" style="width: 250px; height: 140px; object-fit: cover; border-radius: 8px;">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+  [FUSE-RSVLM: Feature Fusion Vision-Language Model for Remote Sensing](https://arxiv.org/abs/2512.24022)
+
+  Yunkai Dang\*, Donghao Wang\*, Jiacheng Yang, **Yifan Jiang**, Meiyi Zhu, Yuekun Yang, Cong Wang, Qi Fan, Wenbin Li, Yang Gao
+  
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Under Review</div>
+      <img src='images/CLASP.png' alt="CLASP" style="width: 250px; height: 140px; object-fit: cover; border-radius: 8px;">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+  [https://arxiv.org/abs/2604.12767](https://arxiv.org/abs/2604.12767)
+
+  Yunkai Dang\*, Yizhu Jiang\*, **Yifan Jiang**, Qi Fan, Yinghuan Shi, Wenbin Li, Yang Gao
   
   </div>
 </div>
