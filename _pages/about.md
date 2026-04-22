@@ -49,8 +49,8 @@ My previous research experience spans multimodal large model reasoning, trustwor
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">ICML 2026 在投</div>
-      <img src='images/Instinct vs Reflection.png' alt="Project Name" width="100%">
+     
+      <img src='images/Instinct_vs_Reflection.png' alt="Project Name" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
