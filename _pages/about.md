@@ -59,10 +59,6 @@ My previous research experience spans multimodal large model reasoning, trustwor
 
   Yunkai Dang*, **Yifan Jiang***, Yizhu Jiang, Anqi Chen, Wenbin Li, Yang Gao
   
-  [**Project**](https://your-project-page) | [**Code**](https://github.com/your-repo) | [**arXiv**](https://arxiv.org/abs/2604.17274)
-
-  - Proposed a novel framework unifying token-level and verbalized confidence for MLLMs.
-  - Achieved state-of-the-art calibration performance across multiple multimodal reasoning tasks.
   </div>
 </div>
 
