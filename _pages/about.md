@@ -57,7 +57,7 @@ My previous research experience spans multimodal large model reasoning, trustwor
 
   [Instinct vs. Reflection: Unifying Token and Verbalized Confidence in Multimodal Large Models](https://arxiv.org/abs/2604.17274)
 
-  Yunkai Dang*, **Yifan Jiang***, Yizhu Jiang, Anqi Chen, Wenbin Li, Yang Gao
+  Yunkai Dang\*, **Yifan Jiang**\*, Yizhu Jiang, Anqi Chen, Wenbin Li, Yang Gao
   
   </div>
 </div>
