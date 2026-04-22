@@ -87,7 +87,7 @@ My previous research experience spans multimodal large model reasoning, trustwor
   </div>
   <div class='paper-box-text' markdown="1">
 
-  [https://arxiv.org/abs/2604.12767](https://arxiv.org/abs/2604.12767)
+  [CLASP: Class-Adaptive Layer Fusion and Dual-Stage Pruning for Multimodal Large Language Models](https://arxiv.org/abs/2604.12767)
 
   Yunkai Dang\*, Yizhu Jiang\*, **Yifan Jiang**, Qi Fan, Yinghuan Shi, Wenbin Li, Yang Gao
   
