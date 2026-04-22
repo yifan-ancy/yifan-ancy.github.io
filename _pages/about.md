@@ -49,8 +49,8 @@ My previous research experience spans multimodal large model reasoning, trustwor
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-     
-      <img src='images/Instinct_vs_Reflection.png' alt="Project Name" width="100%">
+      <div class="badge">Under Review</div>
+      <img src='images/Instinct_vs_Reflection.png' alt="Instinct vs Reflection Teaser" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -58,6 +58,11 @@ My previous research experience spans multimodal large model reasoning, trustwor
   [Instinct vs. Reflection: Unifying Token and Verbalized Confidence in Multimodal Large Models](https://arxiv.org/abs/2604.17274)
 
   Yunkai Dang*, **Yifan Jiang***, Yizhu Jiang, Anqi Chen, Wenbin Li, Yang Gao
+  
+  [**Project**](https://your-project-page) | [**Code**](https://github.com/your-repo) | [**arXiv**](https://arxiv.org/abs/2604.17274)
+
+  - Proposed a novel framework unifying token-level and verbalized confidence for MLLMs.
+  - Achieved state-of-the-art calibration performance across multiple multimodal reasoning tasks.
   </div>
 </div>
 
