@@ -46,6 +46,22 @@ My previous research experience spans multimodal large model reasoning, trustwor
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ICML 2026 在投</div>
+      <img src='images/your_paper_teaser.png' alt="Project Name" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+  [Instinct vs. Reflection: Unifying Token and Verbalized Confidence in Multimodal Large Models](https://arxiv.org/abs/2604.17274)
+
+  Yunkai Dang*, **Yifan Jiang***, Yizhu Jiang, Anqi Chen, Wenbin Li, Yang Gao
+  </div>
+</div>
+
+
 # 🎖 Honors and Awards
 - **National Scholarship** (Top 0.2% nationwide, the most prestigious undergraduate scholarship in China) <span style="float:right">2025</span>  
 - **National Second Prize**, "Challenge Cup" National College Student Academic Competition <span style="float:right">2025</span>  
