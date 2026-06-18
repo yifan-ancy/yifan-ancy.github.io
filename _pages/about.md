@@ -97,7 +97,9 @@ My previous research experience spans multimodal large model reasoning, trustwor
 
 # 🎖 Honors and Awards
 - **National Scholarship** (Top 0.2% nationwide, the most prestigious undergraduate scholarship in China) <span style="float:right">2025</span>  
-- **National Second Prize**, "Challenge Cup" National College Student Academic Competition <span style="float:right">2025</span>  
+- **National Second Prize**, "Challenge Cup" National College Student Academic Competition <span style="float:right">2025</span>
+- **First Place Winner**, Challenge on EmbodiedBench, CVPR Workshop 2026
+- **Meritorious Winner** (Top 6%-7% worldwide), Interdisciplinary / Mathematical Contest in Modeling (ICM/MCM) 2026
 - **Provincial Third Prize**, China Undergraduate Mathematical Contest in Modeling <span style="float:right">2025</span>
 - **Project Leader**, National University Student Innovation Training Program <span style="float:right">2024</span>
 - **Provincial Third Prize**, China Algorithm Capability Competition <span style="float:right">2024</span>
